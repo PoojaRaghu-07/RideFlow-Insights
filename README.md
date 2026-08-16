@@ -1,4 +1,4 @@
-# RideFlow Analytics 🚗📊
+# RideFlow-Insights 🚗📊
 
 A full-stack ride-sharing analytics platform built with **React, Node.js, Express, TypeScript, and MongoDB**.
 
