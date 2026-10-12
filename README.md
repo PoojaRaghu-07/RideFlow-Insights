@@ -264,7 +264,7 @@ The `trips` collection uses indexes for efficient querying:
 
 ## 🗺️ Geospatial Analytics
 
-RideFlow Analytics uses MongoDB geospatial capabilities for nearby-trip searches and demand analysis.
+RideFlow-Insights uses MongoDB geospatial capabilities for nearby-trip searches and demand analysis.
 
 The `pickup_location` field uses a GeoJSON `Point` with a MongoDB `2dsphere` index.
 
@@ -400,10 +400,10 @@ rideflow-analytics/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/PAVAN-9912/rideflow-analytics.git
+git clone https://github.com/PoojaRaghu-07/RideFlow-Insights.git
 ```
 
-cd rideflow-analytics
+cd RideFlow-Insights
 
 ### 2. Backend
 
